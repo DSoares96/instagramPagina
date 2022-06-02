@@ -1,3 +1,3 @@
-#Receriando a página do Instagram
+# Receriando a página do Instagram
 
  - Criado com HTML e CSS Flex
